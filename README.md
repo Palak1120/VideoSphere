@@ -1,6 +1,6 @@
-# i-Tube with React and Tailwind CSS
+# VideoSphere with React and Tailwind CSS
 
-i-Tube is a React application that allows users to watch YouTube videos and engage in live chat.
+VideoSphere is a React application that allows users to watch YouTube videos and engage in live chat.
 
 ## Installation
 
